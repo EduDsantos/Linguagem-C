@@ -9,7 +9,7 @@ int main(){
 	printf("Qual e a sua idade? ");
 	scanf("%d", &idade);
 	
-	//Procesamento
+	//Processamento
 	if (idade < 18){
 		printf("\nvoce e menor de idade");
 	}else if(idade > 18 && idade < 60){
