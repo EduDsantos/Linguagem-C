@@ -1,4 +1,3 @@
-//Estruturas de deciçao if, else , else if
 #include <stdio.h>
 
 int main(){
